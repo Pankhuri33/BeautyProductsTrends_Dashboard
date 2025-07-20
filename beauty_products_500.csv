@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Brand,Category,Price,Rating,Reviews,Monthly_Sales,Launch_Date,Discount (%),Final_Price,Revenue
+1001,Tinted Body Lotion,Ponds,Body Lotion,1071,4.6,43,668,2025-06-30,30,749.7,500799.6
+1002,Radiant Foundation,L’Oreal,Foundation,693,4.4,843,2582,2025-07-03,6,651.42,1681966.44
+1003,Vitamin C Skincare,Sugar,Skincare,964,4.2,837,2852,2025-04-09,25,723.0,2061996.0
+1004,Longwear Foundation,Mamaearth,Foundation,604,4.9,1737,1439,2024-01-19,37,380.52,547568.28
+1005,Cooling Lipstick,Sugar,Lipstick,727,4.0,545,1498,2024-06-06,31,501.63,751441.74
+1006,Radiant Foundation,Ponds,Foundation,1062,3.6,744,1182,2024-02-15,27,775.26,916357.32
+1007,Longwear Foundation,The Ordinary,Foundation,189,3.7,1877,2979,2023-10-09,31,130.41,388491.39
+1008,Fresh Blush,Sugar,Blush,1186,3.5,1001,2326,2024-11-09,6,1114.84,2593117.84
+1009,Hydrating Toner,Sugar,Toner,925,3.8,1472,1111,2023-10-23,12,814.0,904354.0
+1010,Soft Touch Skincare,Maybelline,Skincare,1126,4.5,869,1268,2023-08-12,18,923.32,1170769.76
+1011,Longwear Skincare,MCaffeine,Skincare,706,4.2,1416,2547,2024-11-06,13,614.22,1564418.34
+1012,Hydrating Body Lotion,NYX,Body Lotion,1187,4.7,1299,573,2024-10-21,14,1020.82,584929.86
+1013,Matte Scrub,NYX,Scrub,445,3.8,204,2740,2023-07-28,8,409.4,1121756.0
+1014,SPF 50 Moisturizer,Ponds,Moisturizer,662,4.3,1184,2282,2024-10-14,27,483.26,1102799.32
+1015,Cooling Concealer,Wow Skin,Concealer,846,4.5,1558,397,2025-01-03,29,600.66,238462.02
+1016,Creamy Skincare,Colorbar,Skincare,1173,4.0,761,1781,2025-03-12,27,856.29,1525052.49
+1017,SPF 50 Cleanser,Colorbar,Cleanser,498,4.9,1275,2772,2025-05-16,28,358.56,993928.32
+1018,Nude Blush,Lakme,Blush,893,4.0,1909,505,2024-05-31,32,607.24,306656.2
+1019,SPF 50 Concealer,Lakme,Concealer,715,4.8,778,357,2024-12-23,39,436.15,155705.55
+1020,Glow Concealer,Vaseline,Concealer,489,3.7,820,648,2024-12-20,11,435.21,282016.08
+1021,Matte Highlighter,Mamaearth,Highlighter,1111,4.9,1957,1081,2024-04-19,18,911.02,984812.62
+1022,Radiant Cleanser,Faces Canada,Cleanser,781,4.8,908,2651,2023-10-17,19,632.61,1677049.11
+1023,Glow Skincare,Colorbar,Skincare,717,4.0,810,1940,2024-12-07,30,501.9,973686.0
+1024,Fresh Concealer,Ponds,Concealer,1055,4.2,1353,365,2024-10-16,35,685.75,250298.75
+1025,Matte Blush,Ponds,Blush,1069,4.4,619,209,2024-07-03,19,865.89,180971.01
+1026,Hydrating Highlighter,Mamaearth,Highlighter,718,3.8,351,1347,2024-01-15,11,639.02,860759.94
+1027,Vitamin C Foundation,Wow Skin,Foundation,1079,4.6,1976,2456,2024-12-04,40,647.4,1590014.4
+1028,Vitamin C Blush,Lakme,Blush,273,3.9,1655,362,2024-12-30,14,234.78,84990.36
+1029,Soft Touch Serum,Dot & Key,Serum,573,4.2,1530,1020,2024-01-16,21,452.67,461723.4
+1030,Vitamin C Toner,NYX,Toner,475,3.7,1347,249,2025-07-14,12,418.0,104082.0
+1031,Longwear Lipstick,Aqualogica,Lipstick,1086,3.5,1116,153,2024-11-02,30,760.2,116310.6
+1032,Hydrating Moisturizer,Vaseline,Moisturizer,713,4.2,863,2587,2024-10-09,33,477.71,1235835.77
+1033,Cooling Mask,Swiss Beauty,Mask,894,4.0,886,1385,2024-07-07,15,759.9,1052461.5
+1034,Tinted Skincare,Kay Beauty,Skincare,415,4.4,1850,1585,2025-02-02,11,369.35,585419.75
+1035,Longwear Concealer,Maybelline,Concealer,780,4.9,557,902,2023-12-26,37,491.4,443242.8
+1036,Nude Concealer,Ponds,Concealer,282,4.5,1594,179,2024-01-23,13,245.34,43915.86
+1037,Soft Touch Foundation,Plum,Foundation,660,3.7,1392,1601,2025-02-10,6,620.4,993260.4
+1038,Glow Toner,NYX,Toner,630,3.7,558,1129,2024-08-06,10,567.0,640143.0
+1039,Creamy Serum,Swiss Beauty,Serum,642,4.3,1665,2924,2024-12-31,40,385.2,1126324.8
+1040,Fresh Moisturizer,Vaseline,Moisturizer,393,3.9,1096,2331,2023-10-23,28,282.96,659579.76
+1041,Longwear Moisturizer,Wow Skin,Moisturizer,1011,4.5,1190,655,2025-04-16,6,950.34,622472.7
+1042,Nude Highlighter,The Ordinary,Highlighter,331,4.2,567,1576,2025-05-26,10,297.9,469490.4
+1043,Soft Touch Foundation,Kay Beauty,Foundation,634,4.6,1788,608,2023-08-21,6,595.96,362343.68
+1044,Fresh Scrub,Faces Canada,Scrub,392,4.7,938,2913,2023-07-26,34,258.72,753651.36
+1045,Longwear Lipstick,Faces Canada,Lipstick,906,3.7,506,571,2025-02-23,13,788.22,450073.62
+1046,Nude Compact,Kay Beauty,Compact,1127,3.7,802,375,2025-06-21,36,721.28,270480.0
+1047,SPF 50 Lipstick,Plum,Lipstick,669,4.8,307,1047,2023-08-25,36,428.16,448283.52
+1048,Creamy Moisturizer,Maybelline,Moisturizer,753,3.5,1491,478,2025-03-17,33,504.51,241155.78
+1049,Creamy Eye Makeup,NYX,Eye Makeup,394,4.9,1543,480,2023-09-15,16,330.96,158860.8
+1050,Cooling Moisturizer,Aqualogica,Moisturizer,167,4.9,47,425,2023-07-28,40,100.2,42585.0
+1051,Matte Compact,Faces Canada,Compact,217,3.7,702,1922,2023-09-04,26,160.58,308634.76
+1052,Hydrating Foundation,Swiss Beauty,Foundation,846,3.7,262,1441,2025-06-28,28,609.12,877741.92
+1053,Cooling Foundation,Mamaearth,Foundation,475,3.9,55,770,2023-08-04,19,384.75,296257.5
+1054,Hydrating Eye Makeup,Mamaearth,Eye Makeup,207,3.6,1070,1281,2024-01-22,35,134.55,172358.55
+1055,Creamy Skincare,Neutrogena,Skincare,384,4.2,543,2189,2024-06-24,37,241.92,529562.88
+1056,Creamy Highlighter,Kay Beauty,Highlighter,279,4.4,541,364,2024-04-16,25,209.25,76167.0
+1057,Radiant Eye Makeup,Kay Beauty,Eye Makeup,200,4.4,241,1448,2025-03-21,16,168.0,243264.0
+1058,Radiant Serum,Wow Skin,Serum,438,4.4,480,2550,2025-03-10,35,284.7,725985.0
+1059,Matte Body Lotion,Lakme,Body Lotion,523,4.6,1111,2927,2024-07-12,25,392.25,1148115.75
+1060,Matte Foundation,Plum,Foundation,733,4.7,1441,2068,2024-03-23,7,681.69,1409734.92
+1061,Glow Eye Makeup,Swiss Beauty,Eye Makeup,869,3.9,1830,143,2024-02-16,31,599.61,85744.23
+1062,SPF 50 Serum,Lakme,Serum,337,4.0,965,461,2023-07-25,14,289.82,133607.02
+1063,Nude Blush,Maybelline,Blush,513,3.8,1458,1186,2024-03-26,30,359.1,425892.6
+1064,Cooling Skincare,L’Oreal,Skincare,465,3.9,1414,2463,2025-05-12,37,292.95,721535.85
+1065,Matte Blush,Swiss Beauty,Blush,707,3.7,711,1050,2024-07-20,20,565.6,593880.0
+1066,SPF 50 Mask,Mamaearth,Mask,502,4.8,1215,2913,2023-10-01,35,326.3,950511.9
+1067,Longwear Highlighter,Mamaearth,Highlighter,267,4.7,329,1464,2025-03-04,28,192.24,281439.36
+1068,Fresh Concealer,Swiss Beauty,Concealer,796,3.7,256,1502,2024-10-03,6,748.24,1123856.48
+1069,Creamy Moisturizer,Minimalist,Moisturizer,1039,3.6,990,2686,2024-04-08,40,623.4,1674452.4
+1070,Soft Touch Body Lotion,Lakme,Body Lotion,491,4.6,801,607,2025-01-07,11,436.99,265252.93
+1071,Hydrating Lipstick,Minimalist,Lipstick,882,4.3,1470,966,2023-10-29,16,740.88,715690.08
+1072,SPF 50 Cleanser,Swiss Beauty,Cleanser,269,4.4,1370,2458,2024-03-23,21,212.51,522349.58
+1073,Soft Touch Serum,Vaseline,Serum,1015,5.0,1504,1320,2024-01-04,26,751.1,991452.0
+1074,Nude Skincare,Plum,Skincare,1066,4.4,1835,420,2024-07-16,17,884.78,371607.6
+1075,Fresh Highlighter,Ponds,Highlighter,668,4.2,97,2353,2023-08-30,24,507.68,1194571.04
+1076,Matte Compact,Ponds,Compact,497,3.7,1647,2127,2024-04-03,19,402.57,856266.39
+1077,Glow Lipstick,Colorbar,Lipstick,530,4.7,1626,2989,2023-09-08,11,471.7,1409911.3
+1078,Fresh Concealer,Swiss Beauty,Concealer,862,4.0,1851,1250,2023-12-02,37,543.06,678825.0
+1079,Cooling Blush,Lakme,Blush,751,3.9,354,1234,2024-01-13,9,683.41,843327.94
+1080,Longwear Cleanser,Colorbar,Cleanser,1083,5.0,1861,1887,2023-09-25,9,985.53,1859695.11
+1081,Glow Concealer,Wow Skin,Concealer,793,4.4,495,354,2024-01-19,22,618.54,218963.16
+1082,Radiant Lipstick,Wow Skin,Lipstick,374,4.2,862,2969,2024-07-10,25,280.5,832804.5
+1083,Nude Scrub,Swiss Beauty,Scrub,1157,4.5,1703,1921,2024-05-13,26,856.18,1644721.78
+1084,Fresh Skincare,Mamaearth,Skincare,821,4.2,1453,1905,2024-02-17,21,648.59,1235563.95
+1085,Fresh Concealer,Mamaearth,Concealer,926,3.9,1837,683,2024-11-25,16,777.84,531264.72
+1086,Radiant Concealer,NYX,Concealer,237,4.9,917,1013,2025-05-23,13,206.19,208870.47
+1087,Nude Skincare,MCaffeine,Skincare,766,4.9,345,568,2025-03-17,18,628.12,356772.16
+1088,Matte Serum,Maybelline,Serum,1139,4.5,1400,1600,2025-06-22,25,854.25,1366800.0
+1089,Radiant Compact,Plum,Compact,186,4.7,1084,2276,2025-03-17,40,111.6,254001.6
+1090,Glow Toner,Mamaearth,Toner,472,3.5,1248,1120,2025-03-27,7,438.96,491635.2
+1091,Soft Touch Concealer,Lakme,Concealer,188,3.7,621,1956,2024-02-19,13,163.56,319923.36
+1092,Matte Mask,Vaseline,Mask,953,4.5,374,1524,2025-01-20,19,771.93,1176421.32
+1093,Tinted Foundation,Vaseline,Foundation,1077,3.7,1030,204,2023-12-28,33,721.59,147204.36
+1094,Matte Mask,Dot & Key,Mask,452,4.6,1277,455,2025-05-24,27,329.96,150131.8
+1095,Nude Moisturizer,L’Oreal,Moisturizer,231,4.9,1874,2443,2024-01-09,27,168.63,411963.09
+1096,Radiant Blush,Neutrogena,Blush,785,4.9,1168,1662,2025-03-01,30,549.5,913269.0
+1097,Creamy Scrub,Minimalist,Scrub,1161,4.3,707,2940,2024-02-16,6,1091.34,3208539.6
+1098,SPF 50 Blush,Aqualogica,Blush,756,3.9,1480,2596,2024-11-09,7,703.08,1825195.68
+1099,Longwear Foundation,Aqualogica,Foundation,364,4.9,1096,1715,2023-07-30,30,254.8,436982.0
+1100,Radiant Blush,Aqualogica,Blush,475,5.0,1169,2894,2024-03-23,22,370.5,1072227.0
+1101,Matte Lipstick,Colorbar,Lipstick,232,4.1,1537,2829,2023-12-30,6,218.08,616948.32
+1102,SPF 50 Scrub,Dot & Key,Scrub,358,3.6,139,816,2024-05-07,10,322.2,262915.2
+1103,Soft Touch Foundation,Kay Beauty,Foundation,182,3.6,1542,2049,2024-07-08,33,121.94,249855.06
+1104,Glow Concealer,NYX,Concealer,1165,3.7,335,763,2024-04-10,36,745.6,568892.8
+1105,Fresh Toner,Neutrogena,Toner,560,4.1,1615,2545,2024-10-23,34,369.6,940632.0
+1106,Tinted Compact,Sugar,Compact,430,4.2,1643,368,2024-08-27,21,339.7,125009.6
+1107,Hydrating Skincare,Colorbar,Skincare,1144,5.0,184,2478,2024-02-10,9,1041.04,2579697.12
+1108,Hydrating Cleanser,Vaseline,Cleanser,886,4.6,1072,392,2023-09-19,27,646.78,253537.76
+1109,Vitamin C Foundation,L’Oreal,Foundation,677,4.6,186,1324,2024-09-17,8,622.84,824640.16
+1110,Soft Touch Mask,Wow Skin,Mask,428,3.8,345,544,2024-08-16,13,372.36,202563.84
+1111,Hydrating Body Lotion,NYX,Body Lotion,223,4.9,219,859,2024-03-23,33,149.41,128343.19
+1112,Glow Concealer,Plum,Concealer,1042,3.5,302,2846,2024-01-16,36,666.88,1897940.48
+1113,Soft Touch Lipstick,Dot & Key,Lipstick,218,5.0,950,148,2024-05-11,25,163.5,24198.0
+1114,SPF 50 Mask,Mamaearth,Mask,383,3.8,1522,2710,2025-01-08,26,283.42,768068.2
+1115,Tinted Skincare,Ponds,Skincare,440,4.0,1570,410,2025-04-01,12,387.2,158752.0
+1116,Longwear Concealer,Ponds,Concealer,475,4.3,721,1078,2025-06-06,25,356.25,384037.5
+1117,Cooling Body Lotion,Neutrogena,Body Lotion,1159,4.1,459,1420,2024-06-26,13,1008.33,1431828.6
+1118,Matte Moisturizer,Lakme,Moisturizer,640,4.9,352,604,2024-11-23,22,499.2,301516.8
+1119,Creamy Highlighter,Sugar,Highlighter,599,4.8,628,1577,2024-10-09,19,485.19,765144.63
+1120,Glow Serum,Faces Canada,Serum,873,4.0,672,1564,2023-07-20,38,541.26,846530.64
+1121,Matte Moisturizer,Vaseline,Moisturizer,194,4.2,1879,2612,2024-04-01,24,147.44,385113.28
+1122,Fresh Toner,Lakme,Toner,761,4.5,1260,1776,2023-09-09,13,662.07,1175836.32
+1123,Soft Touch Concealer,Swiss Beauty,Concealer,371,4.4,730,1123,2024-11-29,39,226.31,254146.13
+1124,Glow Toner,The Ordinary,Toner,270,4.5,570,1761,2024-05-12,35,175.5,309055.5
+1125,SPF 50 Scrub,Maybelline,Scrub,781,4.8,686,2809,2024-10-10,12,687.28,1930569.52
+1126,Hydrating Cleanser,Minimalist,Cleanser,565,4.6,1747,2991,2025-04-22,33,378.55,1132243.05
+1127,Soft Touch Moisturizer,Minimalist,Moisturizer,1143,4.9,167,932,2023-09-19,11,1017.27,948095.64
+1128,Soft Touch Compact,MCaffeine,Compact,550,4.2,624,333,2023-07-23,33,368.5,122710.5
+1129,Glow Toner,Lakme,Toner,271,4.3,859,1453,2024-01-29,31,186.99,271696.47
+1130,Vitamin C Eye Makeup,Sugar,Eye Makeup,1104,4.0,1645,2991,2024-01-12,36,706.56,2113320.96
+1131,Cooling Highlighter,Minimalist,Highlighter,274,4.4,725,742,2024-08-08,35,178.1,132150.2
+1132,Nude Moisturizer,Neutrogena,Moisturizer,873,4.7,1593,2325,2024-01-14,32,593.64,1380213.0
+1133,Fresh Mask,Plum,Mask,972,3.9,257,2115,2025-06-06,7,903.96,1911875.4
+1134,Nude Blush,Aqualogica,Blush,310,4.2,701,1012,2025-02-21,16,260.4,263524.8
+1135,Radiant Blush,Mamaearth,Blush,384,4.8,225,2543,2023-08-23,29,272.64,693323.52
+1136,Tinted Skincare,Kay Beauty,Skincare,654,4.3,1389,1780,2023-07-28,14,562.44,1001143.2
+1137,Cooling Compact,The Ordinary,Compact,800,4.7,1520,432,2023-07-20,5,760.0,328320.0
+1138,Longwear Mask,L’Oreal,Mask,716,3.7,1926,188,2023-07-21,29,508.36,95571.68
+1139,SPF 50 Foundation,NYX,Foundation,230,4.1,770,1083,2024-03-22,7,213.9,231653.7
+1140,Radiant Lipstick,Dot & Key,Lipstick,336,4.3,402,134,2025-05-28,7,312.48,41872.32
+1141,Longwear Cleanser,Mamaearth,Cleanser,386,4.0,1860,717,2025-02-08,12,339.68,243550.56
+1142,Creamy Mask,Mamaearth,Mask,571,4.9,1506,114,2025-02-13,9,519.61,59235.54
+1143,Radiant Mask,L’Oreal,Mask,1117,5.0,1341,339,2025-03-22,20,893.6,302930.4
+1144,SPF 50 Skincare,Colorbar,Skincare,523,3.8,901,2772,2025-07-12,19,423.63,1174302.36
+1145,Tinted Skincare,Mamaearth,Skincare,1003,3.6,944,171,2025-02-12,32,682.04,116628.84
+1146,Fresh Body Lotion,Ponds,Body Lotion,262,4.3,947,1994,2025-03-09,15,222.7,444063.8
+1147,Hydrating Skincare,NYX,Skincare,246,3.7,1842,2530,2023-11-25,15,209.1,529023.0
+1148,Glow Highlighter,Vaseline,Highlighter,907,4.6,1781,2559,2024-01-04,21,716.53,1833600.27
+1149,Creamy Moisturizer,Mamaearth,Moisturizer,266,3.9,201,1757,2025-07-10,32,180.88,317806.16
+1150,Vitamin C Scrub,L’Oreal,Scrub,216,4.0,1599,998,2023-09-09,9,196.56,196166.88
+1151,Longwear Body Lotion,Swiss Beauty,Body Lotion,418,4.5,153,1825,2024-01-10,29,296.78,541623.5
+1152,Vitamin C Highlighter,Vaseline,Highlighter,846,4.6,82,1832,2025-02-08,26,626.04,1146905.28
+1153,Glow Skincare,Ponds,Skincare,994,3.5,1069,455,2025-01-27,15,844.9,384429.5
+1154,Vitamin C Mask,Kay Beauty,Mask,940,3.5,1736,586,2024-07-07,11,836.6,490247.6
+1155,Radiant Eye Makeup,Maybelline,Eye Makeup,1042,4.0,1849,2482,2024-09-02,36,666.88,1655196.16
+1156,Matte Eye Makeup,Neutrogena,Eye Makeup,470,3.9,1399,168,2023-08-19,8,432.4,72643.2
+1157,Creamy Concealer,MCaffeine,Concealer,317,3.6,496,1082,2024-03-30,37,199.71,216086.22
+1158,Radiant Highlighter,Faces Canada,Highlighter,746,4.2,1631,290,2024-07-12,26,552.04,160091.6
+1159,Tinted Foundation,The Ordinary,Foundation,271,3.8,846,1622,2025-07-15,26,200.54,325275.88
+1160,Hydrating Foundation,Colorbar,Foundation,874,4.2,963,117,2025-01-04,37,550.62,64422.54
+1161,Longwear Cleanser,Neutrogena,Cleanser,325,3.9,1095,1409,2024-12-10,10,292.5,412132.5
+1162,Fresh Body Lotion,Aqualogica,Body Lotion,994,4.6,1813,904,2024-04-12,15,844.9,763789.6
+1163,Tinted Cleanser,Aqualogica,Cleanser,1191,4.9,951,129,2024-03-01,13,1036.17,133665.93
+1164,Creamy Scrub,The Ordinary,Scrub,1046,4.5,258,2010,2024-02-11,26,774.04,1555820.4
+1165,Hydrating Mask,L’Oreal,Mask,246,4.4,1527,1765,2024-03-20,17,204.18,360377.7
+1166,SPF 50 Moisturizer,Lakme,Moisturizer,544,4.5,1002,2903,2025-03-31,5,516.8,1500270.4
+1167,Cooling Toner,Mamaearth,Toner,520,3.7,808,1824,2024-06-21,12,457.6,834662.4
+1168,Creamy Toner,Swiss Beauty,Toner,1065,4.9,1029,2538,2024-09-14,5,1011.75,2567821.5
+1169,Creamy Moisturizer,Faces Canada,Moisturizer,717,4.6,795,412,2025-03-18,36,458.88,189058.56
+1170,Matte Serum,Dot & Key,Serum,154,4.6,810,1842,2024-03-14,23,118.58,218424.36
+1171,Radiant Compact,Dot & Key,Compact,189,4.9,1740,1785,2024-02-14,6,177.66,317123.1
+1172,Matte Compact,The Ordinary,Compact,1120,3.8,331,1404,2023-12-31,8,1030.4,1446681.6
+1173,Fresh Body Lotion,Plum,Body Lotion,788,3.8,678,1480,2023-10-28,17,654.04,967979.2
+1174,Nude Compact,Minimalist,Compact,458,4.0,412,2892,2024-06-25,31,316.02,913929.84
+1175,Glow Cleanser,Colorbar,Cleanser,513,3.5,1850,2633,2024-02-24,10,461.7,1215656.1
+1176,SPF 50 Moisturizer,Sugar,Moisturizer,274,4.8,1582,1031,2024-07-20,10,246.6,254244.6
+1177,Radiant Highlighter,Swiss Beauty,Highlighter,918,4.6,1026,1729,2025-07-06,17,761.94,1317394.26
+1178,Vitamin C Lipstick,Plum,Lipstick,774,3.6,1222,1945,2025-03-04,14,665.64,1294669.8
+1179,Creamy Eye Makeup,Aqualogica,Eye Makeup,739,4.3,773,846,2024-04-04,18,605.98,512659.08
+1180,Radiant Blush,Dot & Key,Blush,1089,4.7,363,261,2024-02-05,30,762.3,198960.3
+1181,Glow Cleanser,Lakme,Cleanser,401,4.3,1435,639,2024-11-20,12,352.88,225490.32
+1182,Longwear Body Lotion,Lakme,Body Lotion,881,4.4,1049,2089,2024-09-27,30,616.7,1288286.3
+1183,Creamy Serum,Aqualogica,Serum,206,4.9,1454,2012,2025-01-24,27,150.38,302564.56
+1184,SPF 50 Cleanser,Dot & Key,Cleanser,616,4.8,1265,1380,2023-11-03,26,455.84,629059.2
+1185,Glow Body Lotion,Dot & Key,Body Lotion,350,3.6,1335,320,2023-11-05,33,234.5,75040.0
+1186,Cooling Scrub,Mamaearth,Scrub,839,4.4,1730,1980,2023-07-23,12,738.32,1461873.6
+1187,SPF 50 Highlighter,Ponds,Highlighter,764,3.9,1502,2019,2023-11-09,15,649.4,1311138.6
+1188,Nude Serum,Mamaearth,Serum,1112,4.9,1644,1639,2025-06-10,35,722.8,1184669.2
+1189,Longwear Serum,Lakme,Serum,648,4.2,1307,782,2024-04-03,5,615.6,481399.2
+1190,Radiant Concealer,Swiss Beauty,Concealer,1157,4.8,1245,1533,2023-11-26,5,1099.15,1684996.95
+1191,Glow Highlighter,Mamaearth,Highlighter,667,4.6,361,790,2024-03-23,32,453.56,358312.4
+1192,Creamy Eye Makeup,NYX,Eye Makeup,695,4.1,1369,2742,2024-06-24,20,556.0,1524552.0
+1193,Vitamin C Toner,Maybelline,Toner,215,3.5,1784,813,2023-11-08,6,202.1,164307.3
+1194,Tinted Foundation,Mamaearth,Foundation,946,4.7,1154,619,2025-05-21,31,652.74,404046.06
+1195,Nude Toner,Neutrogena,Toner,259,4.9,278,1665,2025-03-01,18,212.38,353612.7
+1196,Glow Compact,Sugar,Compact,723,4.7,935,2777,2025-07-16,30,506.1,1405439.7
+1197,Hydrating Toner,Ponds,Toner,933,3.8,1485,1029,2023-07-25,31,643.77,662439.33
+1198,Glow Blush,Wow Skin,Blush,817,3.7,1374,1810,2023-09-19,28,588.24,1064714.4
+1199,Hydrating Mask,L’Oreal,Mask,364,4.8,1205,697,2025-07-19,11,323.96,225800.12
+1200,SPF 50 Highlighter,Sugar,Highlighter,929,4.1,867,733,2024-06-02,7,863.97,633290.01
+1201,Vitamin C Mask,Lakme,Mask,1138,3.8,382,1009,2024-11-01,36,728.32,734874.88
+1202,Longwear Cleanser,Maybelline,Cleanser,381,4.2,813,2720,2024-11-21,10,342.9,932688.0
+1203,Glow Eye Makeup,The Ordinary,Eye Makeup,478,4.9,1869,2782,2024-12-27,23,368.06,1023942.92
+1204,Vitamin C Toner,Ponds,Toner,369,3.6,1672,1436,2024-05-21,27,269.37,386815.32
+1205,Matte Blush,Aqualogica,Blush,1044,3.6,1089,1010,2024-08-18,22,814.32,822463.2
+1206,Glow Skincare,Neutrogena,Skincare,914,4.2,260,2372,2024-02-02,22,712.92,1691046.24
+1207,Vitamin C Mask,The Ordinary,Mask,572,4.2,340,2931,2023-10-22,34,377.52,1106511.12
+1208,Radiant Moisturizer,L’Oreal,Moisturizer,472,3.6,603,712,2024-10-29,27,344.56,245326.72
+1209,Creamy Compact,Maybelline,Compact,744,4.3,712,981,2025-01-31,14,639.84,627683.04
+1210,Tinted Compact,Mamaearth,Compact,1161,3.7,1091,2249,2024-02-04,21,917.19,2062760.31
+1211,Longwear Concealer,Ponds,Concealer,296,4.0,145,319,2024-08-12,40,177.6,56654.4
+1212,Tinted Eye Makeup,Plum,Eye Makeup,802,4.2,438,745,2024-10-14,31,553.38,412268.1
+1213,Longwear Moisturizer,Maybelline,Moisturizer,583,4.4,1902,499,2025-03-27,20,466.4,232733.6
+1214,Soft Touch Eye Makeup,Kay Beauty,Eye Makeup,264,4.7,1817,1065,2024-11-20,12,232.32,247420.8
+1215,Matte Lipstick,Kay Beauty,Lipstick,410,3.8,650,2644,2024-12-03,36,262.4,693785.6
+1216,Fresh Foundation,Plum,Foundation,220,3.8,470,590,2025-03-29,32,149.6,88264.0
+1217,Radiant Moisturizer,Faces Canada,Moisturizer,873,4.6,1664,2731,2024-10-31,12,768.24,2098063.44
+1218,Glow Mask,Vaseline,Mask,599,4.3,1102,283,2023-11-28,25,449.25,127137.75
+1219,Hydrating Serum,Ponds,Serum,940,4.6,97,138,2025-06-22,6,883.6,121936.8
+1220,Soft Touch Skincare,Minimalist,Skincare,432,3.7,536,2980,2024-06-09,25,324.0,965520.0
+1221,Radiant Blush,Kay Beauty,Blush,1097,4.9,1666,1879,2024-07-31,16,921.48,1731460.92
+1222,Longwear Compact,Faces Canada,Compact,190,4.5,1443,2460,2024-01-20,22,148.2,364572.0
+1223,Tinted Cleanser,Faces Canada,Cleanser,1190,4.9,1481,148,2025-05-28,11,1059.1,156746.8
+1224,Tinted Lipstick,Swiss Beauty,Lipstick,308,4.4,1786,126,2024-07-16,12,271.04,34151.04
+1225,Creamy Toner,Colorbar,Toner,764,4.9,1921,354,2024-01-05,39,466.04,164978.16
+1226,SPF 50 Foundation,Ponds,Foundation,551,3.7,1068,1030,2023-12-31,13,479.37,493751.1
+1227,Fresh Highlighter,Kay Beauty,Highlighter,604,4.7,1180,1005,2023-08-21,35,392.6,394563.0
+1228,SPF 50 Eye Makeup,L’Oreal,Eye Makeup,874,4.5,1308,2421,2023-12-10,7,812.82,1967837.22
+1229,Cooling Concealer,Plum,Concealer,361,4.6,1764,367,2023-11-13,9,328.51,120563.17
+1230,Glow Mask,Plum,Mask,1137,4.5,1565,1811,2025-01-22,32,773.16,1400192.76
+1231,Matte Blush,NYX,Blush,657,4.6,1848,2962,2025-02-14,21,519.03,1537366.86
+1232,Creamy Blush,MCaffeine,Blush,150,5.0,222,1770,2023-11-16,29,106.5,188505.0
+1233,Soft Touch Moisturizer,Aqualogica,Moisturizer,1055,3.9,1993,1497,2025-01-14,9,960.05,1437194.85
+1234,SPF 50 Mask,Lakme,Mask,991,3.9,537,1852,2024-10-04,16,832.44,1541678.88
+1235,Tinted Toner,Ponds,Toner,756,3.9,192,1903,2023-10-30,30,529.2,1007067.6
+1236,Glow Body Lotion,Swiss Beauty,Body Lotion,1093,4.7,1739,2781,2025-04-30,32,743.24,2066950.44
+1237,Fresh Foundation,Swiss Beauty,Foundation,919,3.7,685,2009,2024-05-28,7,854.67,1717032.03
+1238,Matte Mask,Sugar,Mask,323,3.6,1483,1299,2024-09-17,5,306.85,398598.15
+1239,Matte Scrub,Faces Canada,Scrub,1142,4.8,1833,1477,2024-01-29,8,1050.64,1551795.28
+1240,Creamy Scrub,NYX,Scrub,610,4.8,1682,2262,2025-03-30,38,378.2,855488.4
+1241,Soft Touch Eye Makeup,Mamaearth,Eye Makeup,1019,4.9,1134,1387,2024-01-09,37,641.97,890412.39
+1242,Longwear Scrub,Kay Beauty,Scrub,1192,4.5,1009,2193,2023-09-30,24,905.92,1986682.56
+1243,Longwear Cleanser,The Ordinary,Cleanser,258,4.1,1438,594,2024-12-16,19,208.98,124134.12
+1244,Vitamin C Concealer,Aqualogica,Concealer,886,4.2,822,1728,2024-03-12,32,602.48,1041085.44
+1245,Soft Touch Moisturizer,Faces Canada,Moisturizer,726,4.9,953,2784,2023-10-23,29,515.46,1435040.64
+1246,Matte Mask,Neutrogena,Mask,1167,4.2,87,1284,2024-08-13,9,1061.97,1363569.48
+1247,Longwear Skincare,Swiss Beauty,Skincare,856,4.5,1585,2179,2024-10-23,6,804.64,1753310.56
+1248,Soft Touch Foundation,Lakme,Foundation,766,4.6,1801,2107,2024-01-17,31,528.54,1113633.78
+1249,Matte Serum,Neutrogena,Serum,1147,4.8,1024,361,2024-03-08,36,734.08,265002.88
+1250,Matte Toner,Minimalist,Toner,697,4.6,1025,957,2023-07-28,30,487.9,466920.3
+1251,Longwear Toner,Swiss Beauty,Toner,670,4.9,369,2390,2024-06-17,19,542.7,1297053.0
+1252,Cooling Foundation,Dot & Key,Foundation,990,4.0,1754,808,2023-09-17,8,910.8,735926.4
+1253,Longwear Highlighter,MCaffeine,Highlighter,490,4.7,1229,805,2024-08-05,18,401.8,323449.0
+1254,Matte Lipstick,The Ordinary,Lipstick,914,4.7,153,486,2024-04-29,24,694.64,337595.04
+1255,Cooling Toner,Faces Canada,Toner,176,4.9,459,165,2023-10-28,29,124.96,20618.4
+1256,Longwear Toner,Plum,Toner,182,4.4,718,1609,2024-04-24,25,136.5,219628.5
+1257,Tinted Blush,Faces Canada,Blush,661,4.2,1647,2636,2024-05-20,30,462.7,1219677.2
+1258,Longwear Serum,Mamaearth,Serum,878,4.8,561,258,2025-01-07,11,781.42,201606.36
+1259,Nude Toner,Lakme,Toner,1030,3.9,869,1404,2024-08-31,27,751.9,1055667.6
+1260,Matte Mask,MCaffeine,Mask,1063,4.2,1207,2321,2023-12-13,7,988.59,2294517.39
+1261,Matte Serum,The Ordinary,Serum,449,4.0,636,277,2025-06-28,5,426.55,118154.35
+1262,Hydrating Body Lotion,Mamaearth,Body Lotion,256,4.7,155,2519,2023-12-18,31,176.64,444956.16
+1263,Vitamin C Blush,Dot & Key,Blush,1153,4.7,554,966,2025-04-08,16,968.52,935590.32
+1264,Hydrating Foundation,Plum,Foundation,751,4.6,1381,153,2023-10-16,34,495.66,75835.98
+1265,Creamy Serum,The Ordinary,Serum,955,4.8,286,597,2024-02-02,31,658.95,393393.15
+1266,Glow Foundation,Ponds,Foundation,1043,4.8,406,499,2024-01-25,26,771.82,385138.18
+1267,Tinted Highlighter,Swiss Beauty,Highlighter,943,3.6,227,2631,2023-09-20,17,782.69,2059257.39
+1268,Hydrating Eye Makeup,Neutrogena,Eye Makeup,383,5.0,349,2486,2024-11-11,17,317.89,790274.54
+1269,Fresh Foundation,Vaseline,Foundation,1118,4.2,1875,1725,2024-10-12,31,771.42,1330699.5
+1270,Radiant Blush,Swiss Beauty,Blush,454,4.4,959,1277,2024-04-05,33,304.18,388437.86
+1271,Hydrating Eye Makeup,Dot & Key,Eye Makeup,812,4.5,464,1069,2023-11-11,33,544.04,581578.76
+1272,Matte Skincare,Swiss Beauty,Skincare,736,4.6,821,1437,2025-05-05,31,507.84,729766.08
+1273,Vitamin C Lipstick,Mamaearth,Lipstick,297,4.1,959,2156,2024-01-20,12,261.36,563492.16
+1274,Glow Foundation,L’Oreal,Foundation,346,4.8,1891,2149,2024-10-09,32,235.28,505616.72
+1275,Cooling Foundation,Kay Beauty,Foundation,519,4.0,658,2372,2024-03-28,18,425.58,1009475.76
+1276,Longwear Highlighter,MCaffeine,Highlighter,767,3.7,1578,280,2025-02-26,34,506.22,141741.6
+1277,Hydrating Skincare,Swiss Beauty,Skincare,299,4.3,599,2782,2025-07-11,22,233.22,648818.04
+1278,Glow Moisturizer,Plum,Moisturizer,1116,3.7,1043,735,2024-03-03,8,1026.72,754639.2
+1279,Tinted Eye Makeup,MCaffeine,Eye Makeup,945,4.1,1981,1084,2024-09-01,38,585.9,635115.6
+1280,Radiant Skincare,L’Oreal,Skincare,904,3.5,1062,1490,2024-06-13,25,678.0,1010220.0
+1281,SPF 50 Blush,Plum,Blush,1010,3.6,1631,2785,2024-06-11,14,868.6,2419051.0
+1282,Cooling Moisturizer,Faces Canada,Moisturizer,1200,4.2,999,1415,2024-01-28,7,1116.0,1579140.0
+1283,Nude Mask,Neutrogena,Mask,927,4.3,1885,2753,2024-10-31,11,825.03,2271307.59
+1284,SPF 50 Toner,Maybelline,Toner,156,4.5,592,1667,2025-05-24,21,123.24,205441.08
+1285,Cooling Mask,Neutrogena,Mask,1001,4.3,57,1655,2025-04-20,24,760.76,1259057.8
+1286,Vitamin C Toner,L’Oreal,Toner,1184,4.2,584,153,2024-01-03,8,1089.28,166659.84
+1287,Soft Touch Compact,Maybelline,Compact,1113,4.6,1052,1731,2024-12-26,31,767.97,1329356.07
+1288,Fresh Foundation,NYX,Foundation,688,4.5,1736,895,2024-05-25,8,632.96,566499.2
+1289,Creamy Body Lotion,Neutrogena,Body Lotion,1197,3.5,356,2867,2024-10-02,34,790.02,2264987.34
+1290,Tinted Foundation,Swiss Beauty,Foundation,206,4.0,570,955,2025-01-31,27,150.38,143612.9
+1291,Matte Scrub,Minimalist,Scrub,215,3.8,530,1193,2024-10-31,7,199.95,238540.35
+1292,Hydrating Skincare,Ponds,Skincare,430,4.9,1815,2954,2023-10-02,28,309.6,914558.4
+1293,Fresh Moisturizer,Neutrogena,Moisturizer,921,4.2,1716,1086,2025-06-13,25,690.75,750154.5
+1294,Glow Toner,Aqualogica,Toner,195,3.9,1242,1636,2024-08-13,30,136.5,223314.0
+1295,Nude Scrub,Ponds,Scrub,389,4.6,1019,2158,2024-11-07,9,353.99,763910.42
+1296,Radiant Highlighter,Aqualogica,Highlighter,611,5.0,903,1337,2023-07-20,35,397.15,530989.55
+1297,Soft Touch Mask,Dot & Key,Mask,394,4.3,1680,1439,2025-07-05,34,260.04,374197.56
+1298,Matte Body Lotion,Ponds,Body Lotion,351,3.9,1983,715,2024-06-19,16,294.84,210810.6
+1299,Glow Toner,Maybelline,Toner,575,4.7,1641,829,2025-05-20,35,373.75,309838.75
+1300,Tinted Skincare,Vaseline,Skincare,344,4.9,1615,184,2025-02-09,10,309.6,56966.4
+1301,Tinted Serum,Dot & Key,Serum,487,4.6,757,1574,2024-09-22,8,448.04,705214.96
+1302,Nude Mask,L’Oreal,Mask,427,4.5,1611,2500,2025-06-23,27,311.71,779275.0
+1303,Longwear Mask,Lakme,Mask,327,3.9,1148,175,2024-08-17,16,274.68,48069.0
+1304,Tinted Mask,Swiss Beauty,Mask,738,4.7,1681,1790,2023-12-07,18,605.16,1083236.4
+1305,SPF 50 Lipstick,Kay Beauty,Lipstick,312,4.0,816,485,2024-09-22,6,293.28,142240.8
+1306,Radiant Foundation,Sugar,Foundation,861,5.0,1450,2007,2023-09-23,33,576.87,1157778.09
+1307,Cooling Concealer,Sugar,Concealer,650,4.2,440,2224,2024-10-04,9,591.5,1315496.0
+1308,Longwear Moisturizer,The Ordinary,Moisturizer,376,3.6,1165,1699,2024-01-22,34,248.16,421623.84
+1309,Fresh Scrub,Wow Skin,Scrub,372,4.3,1041,512,2024-09-11,13,323.64,165703.68
+1310,Cooling Body Lotion,Neutrogena,Body Lotion,693,4.0,1634,2342,2024-08-07,13,602.91,1412015.22
+1311,Tinted Highlighter,Dot & Key,Highlighter,581,3.7,1297,2930,2025-05-03,35,377.65,1106514.5
+1312,Tinted Moisturizer,Ponds,Moisturizer,1070,4.2,661,2759,2024-11-25,23,823.9,2273140.1
+1313,Soft Touch Scrub,Neutrogena,Scrub,568,4.0,237,125,2024-12-09,16,477.12,59640.0
+1314,Radiant Blush,Maybelline,Blush,932,4.5,966,1153,2024-02-21,38,577.84,666249.52
+1315,Glow Serum,Lakme,Serum,1188,4.3,1534,2385,2023-09-14,5,1128.6,2691711.0
+1316,Soft Touch Blush,Colorbar,Blush,212,4.4,48,1421,2024-04-01,26,156.88,222926.48
+1317,Cooling Foundation,L’Oreal,Foundation,1055,3.6,1131,2676,2025-01-18,18,865.1,2315007.6
+1318,Glow Scrub,Plum,Scrub,432,4.8,245,1628,2024-02-07,40,259.2,421977.6
+1319,SPF 50 Serum,Faces Canada,Serum,265,4.3,1895,2947,2024-09-06,33,177.55,523239.85
+1320,Soft Touch Foundation,NYX,Foundation,426,4.5,180,467,2023-11-11,7,396.18,185016.06
+1321,Glow Cleanser,Plum,Cleanser,847,3.6,1356,1733,2025-04-26,32,575.96,998138.68
+1322,Vitamin C Blush,Faces Canada,Blush,708,4.2,611,2094,2024-12-24,27,516.84,1082262.96
+1323,Radiant Scrub,NYX,Scrub,963,5.0,106,1906,2023-09-14,38,597.06,1137996.36
+1324,Creamy Concealer,Minimalist,Concealer,1165,3.8,740,1578,2024-07-19,27,850.45,1342010.1
+1325,Vitamin C Moisturizer,Minimalist,Moisturizer,818,4.8,674,2722,2024-10-02,19,662.58,1803542.76
+1326,Soft Touch Compact,Sugar,Compact,1040,4.6,264,2708,2024-04-01,27,759.2,2055913.6
+1327,Hydrating Concealer,Sugar,Concealer,951,4.8,774,434,2023-12-26,5,903.45,392097.3
+1328,Nude Concealer,Lakme,Concealer,1010,4.7,1393,1241,2023-10-13,11,898.9,1115534.9
+1329,Creamy Blush,Wow Skin,Blush,1161,4.6,554,1299,2024-02-21,34,766.26,995371.74
+1330,Tinted Skincare,Dot & Key,Skincare,557,4.3,1412,2212,2025-03-16,17,462.31,1022629.72
+1331,Longwear Blush,Dot & Key,Blush,326,4.9,1033,1855,2025-01-21,22,254.28,471689.4
+1332,Cooling Foundation,Lakme,Foundation,578,4.3,1548,198,2023-09-22,28,416.16,82399.68
+1333,Longwear Toner,Ponds,Toner,620,4.1,1824,1460,2024-03-03,34,409.2,597432.0
+1334,Nude Blush,L’Oreal,Blush,509,3.6,563,856,2024-01-25,29,361.39,309349.84
+1335,Longwear Lipstick,Swiss Beauty,Lipstick,809,4.9,1625,2304,2025-05-18,28,582.48,1342033.92
+1336,Hydrating Eye Makeup,Mamaearth,Eye Makeup,413,3.6,81,1971,2024-04-22,31,284.97,561675.87
+1337,Glow Skincare,Sugar,Skincare,455,3.9,1355,2455,2024-02-03,21,359.45,882449.75
+1338,Matte Cleanser,Sugar,Cleanser,972,4.2,413,2948,2024-06-11,31,670.68,1977164.64
+1339,Creamy Mask,Aqualogica,Mask,1022,4.4,1014,1170,2023-07-23,38,633.64,741358.8
+1340,Radiant Toner,Minimalist,Toner,476,4.7,963,2973,2024-05-17,8,437.92,1301936.16
+1341,Creamy Eye Makeup,Aqualogica,Eye Makeup,1091,4.2,72,1622,2025-05-02,30,763.7,1238721.4
+1342,Creamy Blush,Vaseline,Blush,742,4.5,1676,2377,2024-08-28,35,482.3,1146427.1
+1343,Hydrating Skincare,Colorbar,Skincare,166,3.6,1210,1384,2023-09-13,24,126.16,174605.44
+1344,Matte Moisturizer,The Ordinary,Moisturizer,765,4.6,985,2430,2024-04-08,15,650.25,1580107.5
+1345,Radiant Highlighter,MCaffeine,Highlighter,497,4.2,968,2057,2024-02-07,25,372.75,766746.75
+1346,Matte Scrub,The Ordinary,Scrub,1056,3.8,1520,2259,2023-08-16,22,823.68,1860693.12
+1347,Hydrating Highlighter,Minimalist,Highlighter,815,4.5,581,798,2025-06-27,10,733.5,585333.0
+1348,Fresh Scrub,Dot & Key,Scrub,885,4.7,910,1316,2025-06-01,38,548.7,722089.2
+1349,Radiant Concealer,Maybelline,Concealer,301,4.0,1943,2452,2024-09-11,11,267.89,656866.28
+1350,Matte Moisturizer,Neutrogena,Moisturizer,261,5.0,1834,1179,2024-04-02,23,200.97,236943.63
+1351,Soft Touch Blush,Swiss Beauty,Blush,628,4.4,1750,1856,2025-02-06,25,471.0,874176.0
+1352,Tinted Mask,The Ordinary,Mask,458,4.6,1005,1165,2024-04-11,22,357.24,416184.6
+1353,Soft Touch Blush,Kay Beauty,Blush,1024,4.2,1122,1928,2025-03-06,15,870.4,1678131.2
+1354,SPF 50 Eye Makeup,Minimalist,Eye Makeup,169,4.2,1000,2876,2023-08-31,30,118.3,340230.8
+1355,Tinted Scrub,Lakme,Scrub,843,3.5,736,1879,2025-02-21,13,733.41,1378077.39
+1356,Fresh Lipstick,Neutrogena,Lipstick,827,4.0,1850,2660,2025-01-30,32,562.36,1495877.6
+1357,Fresh Serum,Swiss Beauty,Serum,323,4.5,1162,968,2025-03-09,30,226.1,218864.8
+1358,Cooling Mask,Mamaearth,Mask,522,3.7,699,2492,2025-02-03,5,495.9,1235782.8
+1359,Hydrating Cleanser,Sugar,Cleanser,1178,4.8,1612,2482,2024-09-15,22,918.84,2280560.88
+1360,Creamy Toner,MCaffeine,Toner,444,4.3,151,1341,2024-06-02,6,417.36,559679.76
+1361,Creamy Lipstick,Faces Canada,Lipstick,1088,4.3,1755,1272,2023-08-08,10,979.2,1245542.4
+1362,Tinted Highlighter,Sugar,Highlighter,336,4.4,1521,1485,2025-03-30,5,319.2,474012.0
+1363,Fresh Mask,MCaffeine,Mask,179,3.8,238,2032,2025-04-27,17,148.57,301894.24
+1364,Creamy Blush,Dot & Key,Blush,379,4.9,426,2450,2025-01-15,13,329.73,807838.5
+1365,Hydrating Cleanser,Dot & Key,Cleanser,667,4.0,48,139,2024-07-27,38,413.54,57482.06
+1366,Matte Toner,NYX,Toner,368,3.6,1028,2313,2024-06-24,36,235.52,544757.76
+1367,Nude Blush,Sugar,Blush,420,4.4,358,1192,2024-10-23,17,348.6,415531.2
+1368,Longwear Serum,L’Oreal,Serum,1158,4.3,225,2871,2025-04-17,13,1007.46,2892417.66
+1369,Fresh Serum,The Ordinary,Serum,719,4.5,1241,247,2024-04-24,33,481.73,118987.31
+1370,Soft Touch Scrub,L’Oreal,Scrub,926,3.7,46,1755,2023-11-13,26,685.24,1202596.2
+1371,Glow Body Lotion,Faces Canada,Body Lotion,272,4.0,1553,1622,2023-07-27,16,228.48,370594.56
+1372,Creamy Highlighter,Neutrogena,Highlighter,984,4.5,283,372,2024-02-08,13,856.08,318461.76
+1373,Nude Serum,Lakme,Serum,1042,3.8,410,1178,2024-11-19,10,937.8,1104728.4
+1374,Longwear Serum,MCaffeine,Serum,1134,4.8,1747,612,2024-11-12,7,1054.62,645427.44
+1375,Vitamin C Concealer,Maybelline,Concealer,768,4.4,1725,1755,2023-10-17,17,637.44,1118707.2
+1376,Longwear Skincare,NYX,Skincare,514,3.9,1833,2676,2024-08-15,17,426.62,1141635.12
+1377,Hydrating Skincare,Kay Beauty,Skincare,551,3.6,1196,1731,2023-11-14,36,352.64,610419.84
+1378,Vitamin C Skincare,MCaffeine,Skincare,969,4.7,328,2136,2023-12-19,35,629.85,1345359.6
+1379,Creamy Mask,Faces Canada,Mask,321,3.9,579,1445,2023-12-14,25,240.75,347883.75
+1380,Nude Toner,Wow Skin,Toner,748,4.6,1547,1854,2024-12-16,10,673.2,1248112.8
+1381,Radiant Moisturizer,Lakme,Moisturizer,659,3.6,307,1576,2024-06-22,37,415.17,654307.92
+1382,Hydrating Scrub,Kay Beauty,Scrub,772,3.7,1123,2338,2025-05-25,13,671.64,1570294.32
+1383,Nude Foundation,Aqualogica,Foundation,697,3.5,1633,462,2023-11-03,31,480.93,222189.66
+1384,Fresh Serum,The Ordinary,Serum,734,4.1,1711,413,2024-12-25,24,557.84,230387.92
+1385,Longwear Body Lotion,Aqualogica,Body Lotion,609,4.2,1275,1247,2024-01-03,30,426.3,531596.1
+1386,Cooling Compact,Neutrogena,Compact,854,3.5,274,2339,2024-02-18,10,768.6,1797755.4
+1387,Nude Foundation,Colorbar,Foundation,769,4.4,513,773,2024-03-30,28,553.68,427994.64
+1388,Hydrating Compact,Kay Beauty,Compact,467,4.3,1999,803,2023-10-04,18,382.94,307500.82
+1389,Matte Lipstick,Faces Canada,Lipstick,1026,4.9,514,396,2023-12-15,18,841.32,333162.72
+1390,Longwear Lipstick,NYX,Lipstick,473,3.5,81,345,2025-04-24,12,416.24,143602.8
+1391,Matte Cleanser,Vaseline,Cleanser,1138,4.8,269,1273,2023-12-20,21,899.02,1144452.46
+1392,Cooling Mask,Kay Beauty,Mask,797,4.5,1721,673,2024-02-26,23,613.69,413013.37
+1393,Soft Touch Foundation,Minimalist,Foundation,1139,4.3,1962,438,2024-07-10,21,899.81,394116.78
+1394,SPF 50 Compact,Aqualogica,Compact,178,3.8,1057,2529,2023-09-29,8,163.76,414149.04
+1395,Radiant Concealer,The Ordinary,Concealer,1164,4.6,1107,1349,2025-01-21,15,989.4,1334700.6
+1396,Glow Moisturizer,Ponds,Moisturizer,713,4.8,643,532,2024-07-24,13,620.31,330004.92
+1397,Radiant Skincare,Aqualogica,Skincare,864,3.5,1691,1281,2025-01-26,36,552.96,708341.76
+1398,Matte Cleanser,Minimalist,Cleanser,914,4.6,364,1738,2025-04-19,30,639.8,1111972.4
+1399,Matte Blush,Aqualogica,Blush,1170,4.1,1181,1016,2024-03-02,16,982.8,998524.8
+1400,Fresh Lipstick,Mamaearth,Lipstick,445,4.0,364,1862,2024-11-29,36,284.8,530297.6
+1401,Glow Eye Makeup,Lakme,Eye Makeup,885,4.9,61,1700,2024-01-06,30,619.5,1053150.0
+1402,Glow Moisturizer,Plum,Moisturizer,447,3.8,296,2963,2024-06-19,21,353.13,1046324.19
+1403,Cooling Body Lotion,Aqualogica,Body Lotion,161,4.6,823,1131,2024-01-28,10,144.9,163881.9
+1404,Creamy Concealer,Plum,Concealer,207,4.6,1018,2928,2025-01-28,20,165.6,484876.8
+1405,Nude Mask,Minimalist,Mask,968,5.0,1486,447,2024-08-16,11,861.52,385099.44
+1406,Glow Lipstick,Maybelline,Lipstick,720,4.2,1702,1201,2024-03-16,30,504.0,605304.0
+1407,Glow Highlighter,Minimalist,Highlighter,621,3.7,887,2167,2024-01-22,34,409.86,888166.62
+1408,Longwear Body Lotion,L’Oreal,Body Lotion,468,3.6,853,1405,2024-11-17,35,304.2,427401.0
+1409,SPF 50 Concealer,Aqualogica,Concealer,577,4.4,64,1207,2024-03-04,21,455.83,550186.81
+1410,Longwear Cleanser,Dot & Key,Cleanser,791,4.2,1141,2141,2023-08-31,34,522.06,1117730.46
+1411,Glow Eye Makeup,Lakme,Eye Makeup,583,4.1,517,2410,2024-08-04,7,542.19,1306677.9
+1412,Matte Compact,L’Oreal,Compact,744,4.0,811,446,2024-08-14,26,550.56,245549.76
+1413,Longwear Lipstick,Maybelline,Lipstick,992,4.4,661,1676,2024-04-10,22,773.76,1296821.76
+1414,Hydrating Body Lotion,Ponds,Body Lotion,1186,4.0,665,275,2023-12-06,33,794.62,218520.5
+1415,Longwear Moisturizer,Colorbar,Moisturizer,680,4.4,58,110,2023-10-08,9,618.8,68068.0
+1416,Vitamin C Moisturizer,The Ordinary,Moisturizer,378,4.6,662,2939,2023-09-16,39,230.58,677674.62
+1417,Nude Blush,Neutrogena,Blush,577,4.6,899,2848,2023-10-05,19,467.37,1331069.76
+1418,Vitamin C Blush,Lakme,Blush,562,4.3,571,2668,2025-07-09,23,432.74,1154550.32
+1419,Fresh Compact,The Ordinary,Compact,856,3.8,925,1482,2024-07-06,29,607.76,900700.32
+1420,Vitamin C Foundation,Mamaearth,Foundation,299,4.1,1384,120,2024-10-06,17,248.17,29780.4
+1421,Soft Touch Mask,Swiss Beauty,Mask,548,4.4,401,1504,2024-07-08,12,482.24,725288.96
+1422,Radiant Cleanser,Sugar,Cleanser,759,3.5,531,1251,2024-10-13,11,675.51,845063.01
+1423,Longwear Skincare,Swiss Beauty,Skincare,987,4.0,494,693,2024-04-30,36,631.68,437754.24
+1424,SPF 50 Blush,Lakme,Blush,242,4.3,701,2877,2024-12-02,25,181.5,522175.5
+1425,Vitamin C Highlighter,Swiss Beauty,Highlighter,402,5.0,994,1758,2024-01-05,26,297.48,522969.84
+1426,Radiant Skincare,Wow Skin,Skincare,1044,4.7,1113,2685,2023-11-03,39,636.84,1709915.4
+1427,Glow Moisturizer,NYX,Moisturizer,352,4.1,1672,2895,2024-03-10,17,292.16,845803.2
+1428,Vitamin C Blush,Mamaearth,Blush,512,4.7,1075,338,2024-11-22,27,373.76,126330.88
+1429,Vitamin C Mask,Ponds,Mask,820,4.1,654,2782,2025-04-22,23,631.4,1756554.8
+1430,Tinted Scrub,Neutrogena,Scrub,423,4.8,839,2895,2023-08-09,34,279.18,808226.1
+1431,Matte Body Lotion,Plum,Body Lotion,771,4.3,1556,507,2024-11-19,18,632.22,320535.54
+1432,Tinted Lipstick,Dot & Key,Lipstick,1131,4.1,1605,1035,2024-05-10,40,678.6,702351.0
+1433,Nude Moisturizer,Aqualogica,Moisturizer,426,4.7,777,421,2023-10-06,15,362.1,152444.1
+1434,Creamy Compact,Vaseline,Compact,396,4.1,1946,526,2024-04-20,31,273.24,143724.24
+1435,Glow Lipstick,Faces Canada,Lipstick,159,4.7,853,840,2025-02-20,24,120.84,101505.6
+1436,Glow Compact,Aqualogica,Compact,1034,4.7,691,1054,2023-11-25,22,806.52,850072.08
+1437,Hydrating Foundation,Minimalist,Foundation,988,4.9,778,1039,2024-01-04,20,790.4,821225.6
+1438,Soft Touch Scrub,Neutrogena,Scrub,230,4.1,1286,1694,2023-10-23,18,188.6,319488.4
+1439,Radiant Foundation,L’Oreal,Foundation,896,3.5,1319,2303,2023-08-13,7,833.28,1919043.84
+1440,Fresh Concealer,Faces Canada,Concealer,1129,3.8,586,851,2023-10-24,31,779.01,662937.51
+1441,Hydrating Cleanser,Sugar,Cleanser,184,4.1,339,1446,2024-12-24,11,163.76,236796.96
+1442,Fresh Concealer,Colorbar,Concealer,1127,4.9,805,2787,2025-06-25,40,676.2,1884569.4
+1443,SPF 50 Eye Makeup,Colorbar,Eye Makeup,269,4.6,1439,1317,2023-11-27,24,204.44,269247.48
+1444,Fresh Serum,NYX,Serum,809,4.1,842,1083,2025-04-01,29,574.39,622064.37
+1445,Hydrating Mask,L’Oreal,Mask,641,4.8,582,2060,2025-05-20,10,576.9,1188414.0
+1446,Matte Cleanser,The Ordinary,Cleanser,429,4.5,1354,2883,2024-04-28,33,287.43,828660.69
+1447,Creamy Serum,Lakme,Serum,678,4.2,446,717,2024-05-18,40,406.8,291675.6
+1448,Longwear Scrub,Sugar,Scrub,356,4.3,1332,2034,2024-04-12,37,224.28,456185.52
+1449,Cooling Eye Makeup,Mamaearth,Eye Makeup,722,4.2,1637,1765,2025-01-17,20,577.6,1019464.0
+1450,Tinted Scrub,Vaseline,Scrub,1164,4.3,1729,133,2024-03-03,9,1059.24,140878.92
+1451,Longwear Moisturizer,Plum,Moisturizer,175,4.2,948,1928,2023-08-16,24,133.0,256424.0
+1452,Glow Highlighter,L’Oreal,Highlighter,510,4.8,1121,2972,2024-06-21,38,316.2,939746.4
+1453,Matte Lipstick,Lakme,Lipstick,432,3.6,460,1240,2024-10-31,6,406.08,503539.2
+1454,Creamy Highlighter,Colorbar,Highlighter,648,4.0,402,823,2024-12-13,10,583.2,479973.6
+1455,Glow Skincare,Maybelline,Skincare,1118,4.8,1275,2843,2023-12-22,9,1017.38,2892411.34
+1456,Fresh Eye Makeup,Ponds,Eye Makeup,715,3.7,102,907,2025-06-12,39,436.15,395588.05
+1457,Hydrating Mask,L’Oreal,Mask,1144,3.7,1609,2676,2024-07-16,6,1075.36,2877663.36
+1458,Hydrating Skincare,Kay Beauty,Skincare,1140,3.9,504,458,2025-07-06,30,798.0,365484.0
+1459,Fresh Body Lotion,Colorbar,Body Lotion,734,4.6,1676,1750,2024-06-30,39,447.74,783545.0
+1460,Cooling Serum,Lakme,Serum,242,4.8,1493,2426,2025-06-22,23,186.34,452060.84
+1461,Vitamin C Blush,NYX,Blush,369,4.2,1629,2902,2023-09-11,23,284.13,824545.26
+1462,Tinted Concealer,Neutrogena,Concealer,415,4.1,1617,873,2024-09-11,18,340.3,297081.9
+1463,Vitamin C Serum,Sugar,Serum,751,3.5,1641,1014,2024-09-16,33,503.17,510214.38
+1464,Longwear Moisturizer,Minimalist,Moisturizer,959,3.6,1317,2688,2024-01-31,9,872.69,2345790.72
+1465,Radiant Highlighter,Minimalist,Highlighter,1143,4.7,1823,1984,2024-04-24,33,765.81,1519367.04
+1466,Fresh Moisturizer,Kay Beauty,Moisturizer,905,4.3,277,288,2024-10-06,34,597.3,172022.4
+1467,Tinted Blush,Vaseline,Blush,476,3.8,1655,2180,2024-01-10,26,352.24,767883.2
+1468,Tinted Eye Makeup,Vaseline,Eye Makeup,1112,4.3,1273,2640,2023-12-11,14,956.32,2524684.8
+1469,Longwear Skincare,Maybelline,Skincare,1173,3.9,1751,768,2023-09-10,31,809.37,621596.16
+1470,Longwear Skincare,Faces Canada,Skincare,1046,3.6,696,1238,2023-10-09,19,847.26,1048907.88
+1471,Glow Foundation,Vaseline,Foundation,151,4.3,266,1048,2024-09-15,8,138.92,145588.16
+1472,Nude Skincare,Vaseline,Skincare,1159,4.9,1197,477,2024-07-24,40,695.4,331705.8
+1473,Fresh Highlighter,The Ordinary,Highlighter,811,4.2,1409,2576,2025-05-10,28,583.92,1504177.92
+1474,SPF 50 Scrub,The Ordinary,Scrub,513,4.2,1226,2490,2024-07-23,6,482.22,1200727.8
+1475,Fresh Eye Makeup,Swiss Beauty,Eye Makeup,922,3.6,1625,726,2025-05-23,12,811.36,589047.36
+1476,Vitamin C Skincare,Minimalist,Skincare,414,3.8,1245,2054,2023-08-02,21,327.06,671781.24
+1477,Vitamin C Lipstick,Ponds,Lipstick,541,4.4,1249,2192,2025-06-12,33,362.47,794534.24
+1478,Radiant Scrub,Aqualogica,Scrub,1139,4.2,796,2480,2025-05-23,24,865.64,2146787.2
+1479,SPF 50 Scrub,Sugar,Scrub,795,3.6,347,2273,2025-02-15,8,731.4,1662472.2
+1480,Glow Concealer,Wow Skin,Concealer,249,5.0,1684,2810,2024-12-07,28,179.28,503776.8
+1481,Fresh Eye Makeup,Lakme,Eye Makeup,428,3.8,547,2984,2024-06-23,24,325.28,970635.52
+1482,Hydrating Highlighter,The Ordinary,Highlighter,788,4.9,1685,2015,2024-04-24,21,622.52,1254377.8
+1483,Nude Cleanser,Aqualogica,Cleanser,1164,4.4,37,2253,2024-02-23,24,884.64,1993093.92
+1484,Radiant Body Lotion,Minimalist,Body Lotion,922,4.6,342,2579,2024-05-11,22,719.16,1854713.64
+1485,Soft Touch Compact,NYX,Compact,637,4.9,1663,267,2024-08-03,22,496.86,132661.62
+1486,Radiant Serum,Wow Skin,Serum,479,3.9,510,599,2024-03-13,7,445.47,266836.53
+1487,Radiant Toner,Maybelline,Toner,1200,4.1,1922,268,2024-02-07,14,1032.0,276576.0
+1488,Soft Touch Moisturizer,Maybelline,Moisturizer,1081,4.2,576,2460,2024-09-12,26,799.94,1967852.4
+1489,SPF 50 Blush,Vaseline,Blush,1183,4.0,1131,1194,2024-05-25,17,981.89,1172376.66
+1490,Tinted Serum,Ponds,Serum,470,3.7,963,1363,2024-09-07,35,305.5,416396.5
+1491,Nude Lipstick,Plum,Lipstick,923,4.5,1758,233,2024-05-18,33,618.41,144089.53
+1492,Soft Touch Lipstick,Kay Beauty,Lipstick,753,3.7,277,514,2025-01-03,18,617.46,317374.44
+1493,Vitamin C Serum,Swiss Beauty,Serum,733,3.8,1793,1633,2024-10-04,6,689.02,1125169.66
+1494,Vitamin C Moisturizer,Sugar,Moisturizer,1031,4.9,641,2238,2024-02-05,7,958.83,2145861.54
+1495,Soft Touch Blush,Maybelline,Blush,1191,3.6,293,2182,2025-07-14,26,881.34,1923083.88
+1496,Longwear Moisturizer,Swiss Beauty,Moisturizer,864,4.2,45,897,2025-06-09,16,725.76,651006.72
+1497,Creamy Serum,NYX,Serum,621,3.6,1191,1478,2024-01-21,23,478.17,706735.26
+1498,Nude Lipstick,Vaseline,Lipstick,349,4.2,1742,851,2024-05-18,14,300.14,255419.14
+1499,Longwear Serum,Maybelline,Serum,375,4.4,380,580,2024-08-07,11,333.75,193575.0
+1500,Nude Body Lotion,Plum,Body Lotion,946,4.8,510,644,2024-12-21,17,785.18,505655.92
