@@ -37,7 +37,10 @@ This project analyzes trends in beauty and personal care products using a synthe
 
 ## 📈 Power BI Dashboard Preview
 
-!([./pag1.png](https://github.com/Pankhuri33/BeautyProductsTrends_Dashboard/blob/9ad80a35fd0d65b6dcebdda3e16c6f55296f9ca8/pag1.png)
+![Dashboard Screenshot](https://github.com/Pankhuri33/BeautyProductsTrends_Dashboard/blob/main/pag1.png?raw=true)
+![Dashboard Screenshot](https://github.com/Pankhuri33/BeautyProductsTrends_Dashboard/blob/main/page2.png?raw=true)
+![Dashboard Screenshot](https://github.com/Pankhuri33/BeautyProductsTrends_Dashboard/blob/main/page3.png?raw=true).
+
 
 > *Visuals include:*
 > - KPI Cards (Revenue, Avg Rating, Product Count, Avg Discount)
