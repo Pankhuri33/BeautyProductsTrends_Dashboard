@@ -67,7 +67,7 @@ This project analyzes trends in beauty and personal care products using a synthe
 
 **Pankhuri Kumari** – Computer Science Grad.  
 📍 LinkedIn: (https://www.linkedin.com/in/pankhuri-kumari-632aa6243/)  
-📂 Portfolio: (https://pankhuri-portfolio.netlify.app/)  
+📂 Portfolio: (https://pankhuriportfolio.vercel.app/)
 📧 Email: pankhurisri034@gmail.com  
 
 ---
